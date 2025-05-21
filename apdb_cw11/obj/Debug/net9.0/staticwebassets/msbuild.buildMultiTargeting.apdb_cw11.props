@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/apdb_cw11.props" />
+</Project>
